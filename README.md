@@ -3,6 +3,9 @@
 https://github.com/tejasiscool69/the-dude-having-ultimate-sigma-riss.git
 this is my game please download it and play in html format in notepad and save as .html in desktop - tejas
 
+
+
+
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
@@ -13,7 +16,6 @@ this is my game please download it and play in html format in notepad and save a
             text-align: center;
             background: linear-gradient(to right, #ff7e5f, #feb47b);
             font-family: Arial, sans-serif;<html lang="en">
-
         }
         h1 {
             color: white;
